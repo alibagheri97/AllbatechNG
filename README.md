@@ -2,4 +2,4 @@
 
 A V2Ray client for Android
 
-Just a few UI Modification ~
+Just a few UI Modification  ~
